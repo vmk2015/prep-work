@@ -1,9 +1,8 @@
 # Proxy Server
-Time spent: [6 hr]
 
+This is a Proxy Server for Node.js submitted as the [pre-work](http://courses.codepath.com/snippets/intro_to_nodejs/prework) requirement for CodePath.
 
-Walkthrough Gif:
-[Add prep-work-nodejs.gif,prep-work-node1js.gif to the project root]
+Time spent: [6hr]
 
 Completed:
 
@@ -17,4 +16,8 @@ Completed:
 * [] Optional: The `--loglevel` argument sets the logging chattiness
 * [] Optional: Supports HTTPS
 * [] Optional: `-h` argument prints CLI API
- 
+
+Walkthrough Gif:
+
+![Video prep-work-nodejs](prep-work-nodejs.gif)
+![Video prep-work-node1js](prep-work-node1js.gif)
