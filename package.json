@@ -1,0 +1,16 @@
+{
+  "name": "node_js_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bode index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.67.0",
+    "through": "^2.3.8",
+    "yargs": "^3.31.0"
+  }
+}

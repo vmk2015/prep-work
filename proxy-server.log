@@ -1,0 +1,12 @@
+
+Request headers: 
+
+
+{"host":"127.0.0.1:8001","user-agent":"curl/7.43.0","accept":"*/*","x-asdf":"'yodawg'","content-length":"10","content-type":"application/x-www-form-urlencoded"}
+DestinationRes.header{"host":"127.0.0.1:8000","user-agent":"curl/7.43.0","accept":"*/*","x-asdf":"'yodawg'","content-length":"10","content-type":"application/x-www-form-urlencoded"}
+hello selfRequest received at:"/"hello self
+Request headers: 
+
+
+{"host":"127.0.0.1:8001","user-agent":"curl/7.43.0","accept":"*/*","x-destination-url":"http://www.google.com"}
+DestinationRes.header{"host":"www.google.com","user-agent":"curl/7.43.0","accept":"*/*","x-destination-url":"http://www.google.com"}
